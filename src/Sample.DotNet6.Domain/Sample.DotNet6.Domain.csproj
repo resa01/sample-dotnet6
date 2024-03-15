@@ -7,7 +7,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.0-rc.1.21451.13" />
-		<Reference Include="System.Configuration" />
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="0.0.0.0" />
 	</ItemGroup>
 
 </Project>
