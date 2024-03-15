@@ -1,4 +1,7 @@
-﻿namespace Sample.DotNet6.Domain.Services
+using System;
+using System.Text;
+
+namespace Sample.DotNet6.Domain.Services
 {
     public interface IHelloService
     {
